@@ -2,7 +2,7 @@
 
 <h2><img src="https://icongr.am/octicons/pin.svg?size=128&color=ffffff" height=30px width=30px/> Descrição do Projeto</h2>
 <p>Projeto desenvolvido para portifólio utilizando as tecnologiar de Javascript, HTML, CSS, API e Json.<br>
-Acesse o site no link: https://reneoliveira18.github.io/amigo-secreto](https://reneoliveira18.github.io/conversor_moeda/</p>
+Acesse o site no link: https://reneoliveira18.github.io/conversor_moeda/</p>
 
 
 <h2><img src="https://icongr.am/octicons/code.svg?size=128&color=ffffff" height=30px width=30px/> Esse projeto foi desenvolvido com as tecnologias abaixo.</h2>
