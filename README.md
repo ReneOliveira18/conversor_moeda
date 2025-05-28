@@ -1,7 +1,7 @@
 <h1 aling=center>Conversor de Moeda</h1> 
 
 <h2><img src="https://icongr.am/octicons/pin.svg?size=128&color=ffffff" height=30px width=30px/> Descrição do Projeto</h2>
-<p>Projeto desenvolvido para portifólio utilizando as tecnologiar de Javascript, HTML, CSS, API e Json.<br>
+<p>Projeto desenvolvido para portifólio utilizando as tecnologiar de Javascript, HTML, CSS, API Externa retornando dados em formato JSON.<br>
 Acesse o site no link: https://reneoliveira18.github.io/conversor_moeda/</p>
 
 
