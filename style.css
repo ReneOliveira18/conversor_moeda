@@ -1,0 +1,101 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #004225;
+    margin: 0;
+}
+
+.container {
+    background-color: #F8F4FF;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 90%;
+    max-width: 400px;
+}
+
+h1 {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    color: #002C12;
+    margin-bottom: 25px;
+}
+
+  
+.input-group {    
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.input-group label {
+    font-family: "Inter", sans-serif;
+    font-size: 18px;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: bold;
+    display: block;
+    margin-bottom: 5px;
+    color: #002C12;
+    font-weight: bold;
+}
+
+.input-group input[type="number"],
+.input-group select {
+    width: calc(100% - 20px); /* Ajuste para padding */
+    padding: 10px;
+    border: 1px solid #004225;
+    border-radius: 4px;
+    font-size: 16px;
+    box-sizing: border-box; /* Garante que padding e border não aumentem o tamanho total */
+}
+
+button {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    background-color: #00693E;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 20px;
+    transition: background-color 0.3s ease;
+    width: 100%;
+    margin-top: 20px;
+}
+
+button:hover {
+    background-color: #00893E;
+}
+
+.result {
+    margin-top: 25px;
+    font-size: 20px;
+    color: #002C12;
+    font-weight: bold;
+}
+
+#conversionResult {
+    font-family: "Inter", sans-serif;
+    font-size: 22px;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: bold;
+    font-weight: bold;
+    background-color: #e9ecef;
+    padding: 15px;
+    border-radius: 4px;
+    border: 1px solid #ced4da;
+    min-height: 25px; /* Para manter o espaço mesmo vazio */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    word-wrap: break-word; /* Quebra de texto em caso de resultado longo */
+}
